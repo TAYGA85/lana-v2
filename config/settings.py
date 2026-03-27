@@ -1,0 +1,2 @@
+LANA_NAME = "LANA"
+DEFAULT_MODE = "normal"
